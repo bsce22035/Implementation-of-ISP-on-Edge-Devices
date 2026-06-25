@@ -1,0 +1,23 @@
+
+NCS2 SLIMEYE INFERENCE REPORT
+-----------------------------
+Device: MYRIAD (Intel NCS2)
+
+Model Size: 213.52 KB
+
+Test Samples: 10
+
+Avg PSNR: 26.1235 dB
+Avg SSIM: 0.8755
+
+Avg Latency: 110.88 ms per image
+Fastest Latency: 110.42 ms
+Slowest Latency: 112.54 ms
+
+Total Time: 1.78 seconds
+
+Average Computation Time: 0.1109 seconds per image
+
+FPS: 9.02
+
+-----------------------------

@@ -1,0 +1,21 @@
+===== NCS2 BENCHMARK =====
+Date: 2026-06-19 15:31:37.214946
+Total images: 10
+
+image: 25, psnr: 27.3970, ssim: 0.9144, inference time: 0.018836 sec
+image: 33, psnr: 25.4811, ssim: 0.8865, inference time: 0.018255 sec
+image: 44, psnr: 28.9117, ssim: 0.9122, inference time: 0.020658 sec
+image: 51, psnr: 29.9295, ssim: 0.9020, inference time: 0.021728 sec
+image: 56, psnr: 30.7579, ssim: 0.8435, inference time: 0.022734 sec
+image: 57, psnr: 29.6197, ssim: 0.8489, inference time: 0.022251 sec
+image: 7, psnr: 29.1362, ssim: 0.8705, inference time: 0.022632 sec
+image: 70, psnr: 24.6968, ssim: 0.8701, inference time: 0.026669 sec
+image: 74, psnr: 27.8544, ssim: 0.7963, inference time: 0.021495 sec
+image: 8, psnr: 27.3664, ssim: 0.8822, inference time: 0.022732 sec
+
+ FINAL RESULTS 
+overall psnr: 28.1151
+overall ssim: 0.8727
+average inference time: 0.021799 sec
+FPS: 45.87
+total time: 1.2063 sec (0.02 min)
