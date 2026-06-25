@@ -125,22 +125,22 @@ The aggregated metrics across different model-device configurations are summariz
 Since PSNR and SSIM depend entirely on the model's algorithms and not the execution hardware, they are identical across all devices.
 
 #### PSNR Comparison (Higher is Better)
-![PSNR Comparison](visualization/psnr_comparison.png)
+![PSNR Comparison](visualization/PSNR_comparison.png)
 
 #### SSIM Comparison (Higher is Better)
-![SSIM Comparison](visualization/ssim_comparison.png)
+![SSIM Comparison](visualization/SSIM_comparison.png)
 
 ### 2. Device-Specific Metrics (FPS Speed)
 Frame rate is highly dependent on hardware capabilities. Below are the speed comparisons for each target platform:
 
 #### Raspberry Pi 3 FPS Comparison
-![Raspberry Pi 3 FPS](visualization/fps_pi3.png)
+![Raspberry Pi 3 FPS](visualization/FPS_PI3.png)
 
 #### Raspberry Pi 5 FPS Comparison
-![Raspberry Pi 5 FPS](visualization/fps_pi5.png)
+![Raspberry Pi 5 FPS](visualization/FPS_PI5.png)
 
 #### Intel NCS2 FPS Comparison
-![Intel NCS2 FPS](visualization/fps_ncs2.png)
+![Intel NCS2 FPS](visualization/FPS_NCS2.png)
 
 ---
 
