@@ -1,0 +1,31 @@
+============================================================
+BENCHMARK SUMMARY STATISTICS
+============================================================
+
+GENERAL
+------------------------------------------------------------
+Total Images Processed: 2417
+Frames Per Second (FPS): 0.19
+Total Processing Time: 12440.489 sec
+
+LATENCY (Processing Time per Image)
+------------------------------------------------------------
+Mean:   5.147078 sec
+Median: 5.416800 sec
+Min:    4.028700 sec
+Max:    6.137100 sec
+Stdev:  0.553416 sec
+
+PSNR (Peak Signal-to-Noise Ratio) [dB]
+------------------------------------------------------------
+Mean:   20.8482 dB
+Min:    9.9300 dB
+Max:    35.9600 dB
+Stdev:  3.8072 dB
+
+SSIM (Structural Similarity Index)
+------------------------------------------------------------
+Mean:   0.765945
+Min:    0.276000
+Max:    0.993000
+Stdev:  0.122759
