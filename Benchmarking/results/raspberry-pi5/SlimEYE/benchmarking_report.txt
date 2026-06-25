@@ -1,0 +1,18 @@
+
+    NAS_ISP INFERENCE REPORT
+    ------------------------
+    Device: cpu
+    Total Parameters: 54,656
+    Model Size: 213.50 KB
+    
+    Test Samples: 2417
+    Avg PSNR: 25.0001 dB
+    Avg SSIM: 0.8773
+    Avg Latency: 315.77 ms per image
+    Fastest Latency: 266.98 ms
+    Slowest Latency: 384.90 ms
+    Total Time: 831.83 seconds
+    Average Computation Time: 0.3158 seconds per image
+
+    ------------------------
+    
