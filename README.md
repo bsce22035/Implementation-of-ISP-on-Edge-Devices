@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Implementation of Neural ISPs on Edge Devices</h1>
+  <h1>Implementation of ISPs on Edge Devices</h1>
   <p><strong>A Full-Stack Hardware and Software Engineering Research Project</strong></p>
 
   <!-- Badges -->
