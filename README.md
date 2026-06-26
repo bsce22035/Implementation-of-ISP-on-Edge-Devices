@@ -29,7 +29,7 @@ Our research systematically evaluates the strict technical trade-offs between ex
 
 ## 🚀 Key Achievements
 
-- **Real-Time AI Processing:** Successfully translated Python-based neural ISPs into highly optimized CUDA C, achieving up to **527 FPS** on an NVIDIA Quadro GPU.
+- **Real-Time AI Processing:** Successfully translated Python-based neural ISPs into highly optimized CUDA C, achieving up to **641 FPS** on an NVIDIA Quadro GPU.
 - **Hardware-Level Execution:** Engineered a custom FPGA datapath architecture (Nexys-4 Artix-7) to execute Neural ISPs without standard memory bottlenecks.
 - **Zero-Shot Domain Adaptation:** Built a mathematical pipeline to adapt a Mediatek-trained AI model to process raw 14-bit data from a **Google Pixel 7a** smartphone with zero network retraining, achieving **16.32 dB PSNR**.
 
